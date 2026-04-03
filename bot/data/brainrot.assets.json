@@ -1,0 +1,602 @@
+[
+  {
+    "slug": "apipipipi",
+    "targetPath": "assets/brainrots/apipipipi.png",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Apipipipi",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/e/e9/Screenshot_2025-08-06_10.43.23_AM.png"
+  },
+  {
+    "slug": "avocadini-guffo",
+    "targetPath": "assets/brainrots/avocadini-guffo.webp",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Avocadini_Guffo",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/2/28/Avocadini_Guffo.webp"
+  },
+  {
+    "slug": "ballerina-cappuccina",
+    "targetPath": "assets/brainrots/ballerina-cappuccina.png",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Ballerina_Cappuccina",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/thumb/9/9a/Ballerina_cappucappu.png/300px-Ballerina_cappucappu.png"
+  },
+  {
+    "slug": "ballerino-lololo",
+    "targetPath": "assets/brainrots/ballerino-lololo.png",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Ballerino_Lololo",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/f/fb/Ballerino_lololo.png"
+  },
+  {
+    "slug": "bambini-felicini",
+    "targetPath": "assets/brainrots/bambini-felicini.png",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Bambini_Felicini",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/6/66/Bambini_Felicini.png"
+  },
+  {
+    "slug": "bau-bau-wang-wang-wolf-wolf-monarca",
+    "targetPath": "assets/brainrots/bau-bau-wang-wang-wolf-wolf-monarca.png",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Bau_Bau_Wang_Wang_Wolf_Wolf_Monarca",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/thumb/3/3d/Bau1.png/300px-Bau1.png"
+  },
+  {
+    "slug": "blueberrinni-octopussini",
+    "targetPath": "assets/brainrots/blueberrinni-octopussini.png",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Blueberrinni_Octopussini",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/thumb/6/6e/Blueberrini_Octopussini.webp/299px-Blueberrini_Octopussini.webp.png"
+  },
+  {
+    "slug": "bobrini-cococosini",
+    "targetPath": "assets/brainrots/bobrini-cococosini.png",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Bobrini_Cococosini",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/d/da/Bobrini_Cococosini.png"
+  },
+  {
+    "slug": "bobrito-bandito",
+    "targetPath": "assets/brainrots/bobrito-bandito.jpg",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Bobrito_Bandito",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/thumb/9/90/Bober_Bandito.jpg/300px-Bober_Bandito.jpg"
+  },
+  {
+    "slug": "bombardiro-crocodilo",
+    "targetPath": "assets/brainrots/bombardiro-crocodilo.jpg",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Bombardiro_Crocodilo",
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Bombardiro_Crocodillo.jpg/330px-Bombardiro_Crocodillo.jpg"
+  },
+  {
+    "slug": "bomberino-foxerino",
+    "targetPath": "assets/brainrots/bomberino-foxerino.png",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Bomberino_Foxerino",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/8/8a/Bomberino_Foxerino.png"
+  },
+  {
+    "slug": "bombombini-gusini",
+    "targetPath": "assets/brainrots/bombombini-gusini.jpeg",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Bombombini_Gusini",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/thumb/e/ed/Bombini_Gusini.jpeg/300px-Bombini_Gusini.jpeg"
+  },
+  {
+    "slug": "boneca-ambalabu",
+    "targetPath": "assets/brainrots/boneca-ambalabu.png",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Boneca_Ambalabu",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/thumb/3/3e/Boneka-Ambalabu.png/300px-Boneka-Ambalabu.png"
+  },
+  {
+    "slug": "bri-bri-bicus-dicus-de-bicus-de-dicus",
+    "targetPath": "assets/brainrots/bri-bri-bicus-dicus-de-bicus-de-dicus.webp",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Bri_Bri_Bicus_Dicus_De_Bicus_De_Dicus",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/e/ef/Brri_Brri_Bicus_Dicus_Bombicus.webp"
+  },
+  {
+    "slug": "brim-brim-brim-brum",
+    "targetPath": "assets/brainrots/brim-brim-brim-brum.jpg",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Brim_brim_brim_brum",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/8/82/Brim_brim_brim_brum.jpg"
+  },
+  {
+    "slug": "brr-brr-gangster-gusini",
+    "targetPath": "assets/brainrots/brr-brr-gangster-gusini.jpg",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Brr_Brr_Gangster_Gusini",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/9/91/Images_%2837%29.jpg"
+  },
+  {
+    "slug": "brr-brr-patapim",
+    "targetPath": "assets/brainrots/brr-brr-patapim.jpeg",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Brr_Brr_Patapim",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/thumb/d/d5/Brr_brr_patapim_without_text.jpeg/300px-Brr_brr_patapim_without_text.jpeg"
+  },
+  {
+    "slug": "brr-es-teh-patipum",
+    "targetPath": "assets/brainrots/brr-es-teh-patipum.jpg",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Brr_Es_Teh_Patipum",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/a/a2/Brr_es_patipum.jpg"
+  },
+  {
+    "slug": "buffalo-cactusuffalo",
+    "targetPath": "assets/brainrots/buffalo-cactusuffalo.png",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Buffalo_Cactusuffalo",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/4/4c/Buffalo_Cactusuffalo.png"
+  },
+  {
+    "slug": "bulbito-bandito-traktorito",
+    "targetPath": "assets/brainrots/bulbito-bandito-traktorito.webp",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Bulbito_Bandito_Traktorito",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/f/f5/Bulbito_Bandito_Traktorito.webp"
+  },
+  {
+    "slug": "bum-bum-dragolo",
+    "targetPath": "assets/brainrots/bum-bum-dragolo.jpg",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Bum_Bum_Dragolo",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/2/2b/GEMINI-20250707-WA0015.jpg"
+  },
+  {
+    "slug": "bunny-mailo-zippito-caro",
+    "targetPath": "assets/brainrots/bunny-mailo-zippito-caro.png",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Bunny_Mailo_Zippito_Caro",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/6/6b/Bunny_Mailo_Zippito_Caro.png"
+  },
+  {
+    "slug": "burbaloni-lulliloli",
+    "targetPath": "assets/brainrots/burbaloni-lulliloli.png",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Burbaloni_Lulliloli",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/b/b2/Burbaloni_Luliloli.png"
+  },
+  {
+    "slug": "burger",
+    "targetPath": "assets/brainrots/burger.png",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Burger",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/5/5b/Evilburger.png"
+  },
+  {
+    "slug": "burgerini-bearini",
+    "targetPath": "assets/brainrots/burgerini-bearini.png",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Burgerini_Bearini",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/5/55/IMAGE_Burgerini_Bearini.png"
+  },
+  {
+    "slug": "camelo-cruasantino",
+    "targetPath": "assets/brainrots/camelo-cruasantino.jpg",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Camelo_Cruasantino",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/4/46/Camelot_cruasantino.jpg"
+  },
+  {
+    "slug": "cappuccino-assassino",
+    "targetPath": "assets/brainrots/cappuccino-assassino.png",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Cappuccino_Assassino",
+    "sourceImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Cappucino_assasino.webp/330px-Cappucino_assasino.webp.png"
+  },
+  {
+    "slug": "chef-crabracadabra",
+    "targetPath": "assets/brainrots/chef-crabracadabra.jpg",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Chef_Crabracadabra",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/7/7a/Images_%2814%29.jpg"
+  },
+  {
+    "slug": "chimpanzini-bananini",
+    "targetPath": "assets/brainrots/chimpanzini-bananini.png",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Chimpanzini_Bananini",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/thumb/5/50/Chimpanzini_Bananino.png/300px-Chimpanzini_Bananino.png"
+  },
+  {
+    "slug": "chimpanzini-chimpanzi",
+    "targetPath": "assets/brainrots/chimpanzini-chimpanzi.png",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Chimpanzini_Chimpanzi",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/9/9f/CC.png"
+  },
+  {
+    "slug": "coccodrilli-faerini",
+    "targetPath": "assets/brainrots/coccodrilli-faerini.webp",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Coccodrilli_Faerini",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/5/56/Coccodrilli_Faerini.webp"
+  },
+  {
+    "slug": "cocofanto-elefanto",
+    "targetPath": "assets/brainrots/cocofanto-elefanto.png",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Cocofanto_Elefanto",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/thumb/6/65/Cocofanto_Elefanto.webp/300px-Cocofanto_Elefanto.webp.png"
+  },
+  {
+    "slug": "crocodillo-ananasino-bombardetto-ananasetto",
+    "targetPath": "assets/brainrots/crocodillo-ananasino-bombardetto-ananasetto.jpg",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Crocodillo_Ananasino_Bombardetto_Ananasetto",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/e/ed/Crocodillo_Ananasino_Bombardetto_Ananasetto.jpg"
+  },
+  {
+    "slug": "dragonfrutini-monkeyuchi",
+    "targetPath": "assets/brainrots/dragonfrutini-monkeyuchi.png",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Dragonfrutini_Monkeyuchi",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/1/17/Dragonfrutini_Monkeyuchi.png"
+  },
+  {
+    "slug": "duk-duk-duk-beraduk-sapi-uduk",
+    "targetPath": "assets/brainrots/duk-duk-duk-beraduk-sapi-uduk.png",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Beduk_Duk_Duk_Beraduk_Sapi_Uduk",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/e/ea/Beduk_Duk_Duk_Beraduk_Sapi_Uduk.png"
+  },
+  {
+    "slug": "ecco-cavallo-virtuoso",
+    "targetPath": "assets/brainrots/ecco-cavallo-virtuoso.jpg",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Ecco_Cavallo_Virtuoso",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/8/8d/Caballopiano.jpg"
+  },
+  {
+    "slug": "el-porquito-mechicanito",
+    "targetPath": "assets/brainrots/el-porquito-mechicanito.jpg",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/El_porquito_mechicanito",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/thumb/5/56/El_porquito_mechicanito_.jpg/300px-El_porquito_mechicanito_.jpg"
+  },
+  {
+    "slug": "espressona-signora",
+    "targetPath": "assets/brainrots/espressona-signora.png",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Espressona_Signora",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/f/f1/Espressora_Signora.png"
+  },
+  {
+    "slug": "flamingo-salpino-girino",
+    "targetPath": "assets/brainrots/flamingo-salpino-girino.jpg",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/IIIIUIIUIIUIIUIIUIUIUIUIUIUIU_Flamingo_Salpino_Girino",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/thumb/8/8f/Iu.jpg/300px-Iu.jpg"
+  },
+  {
+    "slug": "flamino-scutetti",
+    "targetPath": "assets/brainrots/flamino-scutetti.jpg",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Flamino_Scutetti",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/c/c4/Flamino_scutetti_.jpg"
+  },
+  {
+    "slug": "frigo-camelo",
+    "targetPath": "assets/brainrots/frigo-camelo.png",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Frigo_Camelo",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/thumb/0/0e/FrigoCamelo_Samsung.png/300px-FrigoCamelo_Samsung.png"
+  },
+  {
+    "slug": "fritto-peppino-supremo",
+    "targetPath": "assets/brainrots/fritto-peppino-supremo.png",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Fritto_Peppino_Supremo",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/f/fe/Fritto_Peppino_Supremo.png"
+  },
+  {
+    "slug": "frulli-frulla",
+    "targetPath": "assets/brainrots/frulli-frulla.jpeg",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Frulli_Frulla",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/6/6c/FrulliFrolla.jpeg"
+  },
+  {
+    "slug": "ganganzelli-trulala",
+    "targetPath": "assets/brainrots/ganganzelli-trulala.webp",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Ganganzelli_Trulala",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/a/ad/Ganganzelli_Trulala.webp"
+  },
+  {
+    "slug": "gangster-footera",
+    "targetPath": "assets/brainrots/gangster-footera.png",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Gangster_Footera",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/7/73/Gangster_Footera.png"
+  },
+  {
+    "slug": "garamararambraramanmararaman-dan-madudungdung-tak-tuntung-perkuntung",
+    "targetPath": "assets/brainrots/garamararambraramanmararaman-dan-madudungdung-tak-tuntung-perkuntung.webp",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Garamararambraramanmararaman_dan_Madudungdung_tak_tuntung_perkuntung",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/4/46/Garamararamararaman_dan_Madudungdung_tak_tuntung_perkuntung.webp"
+  },
+  {
+    "slug": "gatille-cafille",
+    "targetPath": "assets/brainrots/gatille-cafille.jpeg",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Gatille_Cafill%C3%A9",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/thumb/c/c0/Gatille_Cafill%C3%A9.jpeg/300px-Gatille_Cafill%C3%A9.jpeg"
+  },
+  {
+    "slug": "girafa-celeste",
+    "targetPath": "assets/brainrots/girafa-celeste.png",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Giraffa_Celeste",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/9/95/Giraffa_Celeste.png"
+  },
+  {
+    "slug": "glorbo-fruttodrillo",
+    "targetPath": "assets/brainrots/glorbo-fruttodrillo.jpg",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Glorbo_Fruttodrillo",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/thumb/3/37/Glorbo_Fruttodrillo.jpg/300px-Glorbo_Fruttodrillo.jpg"
+  },
+  {
+    "slug": "gorgonzilla",
+    "targetPath": "assets/brainrots/gorgonzilla.png",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Gorgonzilla",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/4/4a/Gorgonzilla.png"
+  },
+  {
+    "slug": "graipussi-medussi",
+    "targetPath": "assets/brainrots/graipussi-medussi.jpg",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Graipussi_Medussi",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/5/5e/Graipussi_Medussi.jpg"
+  },
+  {
+    "slug": "greng-greng-greng-greng-greng-bus-ireng",
+    "targetPath": "assets/brainrots/greng-greng-greng-greng-greng-bus-ireng.jpeg",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Greng_Greng_Greng_Greng_Greng_Bus_Ireng",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/3/3f/Greng_Greng_Greng_Greng_Greng_Bus_Ireng.jpeg"
+  },
+  {
+    "slug": "gusino-tractorino",
+    "targetPath": "assets/brainrots/gusino-tractorino.png",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Gusino_Tractorino",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/thumb/6/6d/Gusino_Tractorino.png/300px-Gusino_Tractorino.png"
+  },
+  {
+    "slug": "hippobardos-bombardone",
+    "targetPath": "assets/brainrots/hippobardos-bombardone.png",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Hippobardos_bombardone",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/e/e2/Hippobardos_bombardone.png"
+  },
+  {
+    "slug": "hukkin-bakibaki-amasa-ni-muteki-chocolate",
+    "targetPath": "assets/brainrots/hukkin-bakibaki-amasa-ni-muteki-chocolate.jpg",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Hukkin-Bakibaki_Amasa-Ni-Muteki_Chocolate",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/c/c4/Hukkin_Bakibaki_Amasa_Ni_Muketi_Chocolate.jpg"
+  },
+  {
+    "slug": "il-cacto-hipopotamo",
+    "targetPath": "assets/brainrots/il-cacto-hipopotamo.webp",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Il_Cacto_Hipopotamo",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/6/65/PiL5TtPNK9bm5Xs6TzrJAr5I8Ygs3WM3LX0r0yo0YVur2UJsdfwpY2PHtVBxV0xWnXY8lxEu_1enfBO0HsNS4uX3Pxbatbz-oTnZTuWHswhKoidZk5q3BE8iIcuf8VxTl4kRuHFV42RWj7iaqDXGcw.webp"
+  },
+  {
+    "slug": "inilah-sosok-orang-yang-selalu-ngomong",
+    "targetPath": "assets/brainrots/inilah-sosok-orang-yang-selalu-ngomong.jpeg",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Inilah_sosok_orang_yang_selalu_ngomong",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/0/01/Inilah_sosok_orang_yang_selalu_ngomong.jpeg"
+  },
+  {
+    "slug": "jelephant",
+    "targetPath": "assets/brainrots/jelephant.png",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Jelephant",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/3/3d/Jelephant.png"
+  },
+  {
+    "slug": "la-vacca-saturno-saturnita",
+    "targetPath": "assets/brainrots/la-vacca-saturno-saturnita.png",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/La_Vacca_Saturno_Saturnita",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/thumb/6/62/Saturno_Saturnita.png/300px-Saturno_Saturnita.png"
+  },
+  {
+    "slug": "leonelli-cactuselli",
+    "targetPath": "assets/brainrots/leonelli-cactuselli.webp",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Leonelli_Cactuselli",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/0/01/-MeQSSJuP-4fvwc24qHN-BM0XBl6ZpoCCexv_iJgPhXJ5E0tOBOXoY5l84F9dDMIY8lVpK4jTebizqq1CpyGF-vfVTiAmv4FWMXx5kCCL4qU7kzVGSoMa3vtAhiD5RLL7n3-GztIjhioUkhfHtrXDN2h2G65t0aoeVGwWhwgtDc.webp"
+  },
+  {
+    "slug": "lirili-larila",
+    "targetPath": "assets/brainrots/lirili-larila.jpeg",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Liril%C3%AC_Laril%C3%A0",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/thumb/5/52/Lirili_Larila.jpeg/300px-Lirili_Larila.jpeg"
+  },
+  {
+    "slug": "matteoo",
+    "targetPath": "assets/brainrots/matteoo.png",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Matteo",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/thumb/b/be/Matteo.webp/300px-Matteo.webp.png"
+  },
+  {
+    "slug": "mattiaaaaaaaassss",
+    "targetPath": "assets/brainrots/mattiaaaaaaaassss.png",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Mattiaaaaaaaassss",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/c/c2/Captura_de_pantalla_2025-07-17_184510.png"
+  },
+  {
+    "slug": "mecratto-vortole",
+    "targetPath": "assets/brainrots/mecratto-vortole.png",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Mecratto_Vortole",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/c/c6/Mecratto_Vortole.png"
+  },
+  {
+    "slug": "motor-sahur",
+    "targetPath": "assets/brainrots/motor-sahur.jpg",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Motor_Sahur",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/b/bd/Motor_Sahur.jpg"
+  },
+  {
+    "slug": "noo-la-polizia",
+    "targetPath": "assets/brainrots/noo-la-polizia.png",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Noo_La_Polizia",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/2/2f/Nooo_La_Polizia.png"
+  },
+  {
+    "slug": "nooo-my-hotspot",
+    "targetPath": "assets/brainrots/nooo-my-hotspot.jpg",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Nooo_My_Hotspot",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/2/2c/Hotspot1.jpg"
+  },
+  {
+    "slug": "nug-nug-nug-sahur",
+    "targetPath": "assets/brainrots/nug-nug-nug-sahur.jpg",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Nug_Nug_Nug_Sahur",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/e/e3/Nug_Nug_Nug_Nug_Sahur_new.jpg"
+  },
+  {
+    "slug": "nukum-kaixana",
+    "targetPath": "assets/brainrots/nukum-kaixana.jpeg",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Nukum_Kaixana",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/5/5a/NK.jpeg"
+  },
+  {
+    "slug": "orangutini-ananasini",
+    "targetPath": "assets/brainrots/orangutini-ananasini.jpg",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Orangutini_Ananasini",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/thumb/7/7e/Orangutini_Ananasini_V2.jpg/300px-Orangutini_Ananasini_V2.jpg"
+  },
+  {
+    "slug": "patapimus-maximus",
+    "targetPath": "assets/brainrots/patapimus-maximus.png",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Patapimus_Maximus",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/thumb/f/f6/Patapimus_Maximus_.png/300px-Patapimus_Maximus_.png"
+  },
+  {
+    "slug": "perochello-lemonchello",
+    "targetPath": "assets/brainrots/perochello-lemonchello.png",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Perochello_Lemonchello",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/thumb/2/21/HmhyJdMG1r5sVEnrN1_bb74hJ4IJHTJeAll4Ybw60WeNOfIO0sQ6oXubMNCBUpXtpnMFVRetjyHxz48r0DWiU2ckKLkLY9fqONbMru1ceYRb4nDu_8SEx3C-II86DvUfrYEX4IRHflXDYLcUdXCB4w.webp/300px-HmhyJdMG1r5sVEnrN1_bb74hJ4IJHTJeAll4Ybw60WeNOfIO0sQ6oXubMNCBUpXtpnMFVRetjyHxz48r0DWiU2ckKLkLY9fqONbMru1ceYRb4nDu_8SEx3C-II86DvUfrYEX4IRHflXDYLcUdXCB4w.webp.png"
+  },
+  {
+    "slug": "piccione-macchina",
+    "targetPath": "assets/brainrots/piccione-macchina.png",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Piccione_Macchina",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/5/54/Piccione_macchina.png"
+  },
+  {
+    "slug": "pinguinucha-de-la-eterna-lucha",
+    "targetPath": "assets/brainrots/pinguinucha-de-la-eterna-lucha.png",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Pinguinucha_de_la_Eterna_Lucha",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/thumb/3/35/Pinguinucha_de_la_Eterna_Lucha.webp/300px-Pinguinucha_de_la_Eterna_Lucha.webp.png"
+  },
+  {
+    "slug": "pot-hotspot",
+    "targetPath": "assets/brainrots/pot-hotspot.webp",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Pot_Hotspot",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/9/98/6J_LufzJ8xvXwHP-og2UStm8r4lboIIFfHJqJIUDIjqLFSIQ_wtHaZeGQxi5GQe9FKdfCCOrJP4dF2ZZtCYjdUAF-YlbhEZQdjkSmGmcuONprswZYG6DD149KggYcItWAusGa3lJJIPjZU3E53G7hg.webp"
+  },
+  {
+    "slug": "rarabougri-kiki-pipi",
+    "targetPath": "assets/brainrots/rarabougri-kiki-pipi.png",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Rarabougri_Kiki_Pipi",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/b/ba/Rarabougri_kiki_pipi2.png"
+  },
+  {
+    "slug": "ren-guo-ping-de-pa",
+    "targetPath": "assets/brainrots/ren-guo-ping-de-pa.png",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Ren_Guo_Ping_De_Pa",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/f/f5/Ren.png"
+  },
+  {
+    "slug": "rhino-toasterino",
+    "targetPath": "assets/brainrots/rhino-toasterino.png",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Rhino_Toasterino",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/thumb/2/20/ErYGKA0xY0SQFYb80vRCUTEkzF1qTX4DXKd4sRtWutfoOXdE-T-sjWnrIXXaDNOxc1zDo2tCgKLKhnngpk-yoUzW5YbJwUxHdY1PUGcsAgY9AvAn0lEIWww3P2i9uxhm-zaJmPBJr7ASDWknV2HQ_Q.webp/300px-ErYGKA0xY0SQFYb80vRCUTEkzF1qTX4DXKd4sRtWutfoOXdE-T-sjWnrIXXaDNOxc1zDo2tCgKLKhnngpk-yoUzW5YbJwUxHdY1PUGcsAgY9AvAn0lEIWww3P2i9uxhm-zaJmPBJr7ASDWknV2HQ_Q.webp.png"
+  },
+  {
+    "slug": "sigma-boy",
+    "targetPath": "assets/brainrots/sigma-boy.jpg",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Sigma_Boy",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/7/75/Sigma_Boy%21.jpg"
+  },
+  {
+    "slug": "spaghetti-tualetti",
+    "targetPath": "assets/brainrots/spaghetti-tualetti.webp",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Spaghetti_Tualetti",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/7/7f/Spaghetti_Tualetti.webp"
+  },
+  {
+    "slug": "ta-ta-ta-sahur",
+    "targetPath": "assets/brainrots/ta-ta-ta-sahur.png",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Ta_Ta_Ta_Sahur",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/1/19/Ta_ta_ta_ta_ta_ta_ta_ta_sahur.png"
+  },
+  {
+    "slug": "ta-ta-ta-ta-ta-ta-ta-ta-ta-ta-ta-sahur",
+    "targetPath": "assets/brainrots/ta-ta-ta-ta-ta-ta-ta-ta-ta-ta-ta-sahur.png",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Ta_Ta_Ta_Ta_Ta_Ta_Ta_Sahur",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/1/19/Ta_ta_ta_ta_ta_ta_ta_ta_sahur.png"
+  },
+  {
+    "slug": "tai-tai-tai-tai-tai-tai-taichi-lulujibadaodaoguanmastero",
+    "targetPath": "assets/brainrots/tai-tai-tai-tai-tai-tai-taichi-lulujibadaodaoguanmastero.jpg",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Tai_tai_tai_tai_tai_tai_TaiChi_lulujibadaodaoguanmastero",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/a/a2/Tai_tai_tai_tai_tai_tai_TaiChi_lulujibadaodaoguanmastero.jpg"
+  },
+  {
+    "slug": "talpa-di-ferro",
+    "targetPath": "assets/brainrots/talpa-di-ferro.jpeg",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Talpa_di_Ferro",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/8/8d/TalpaDiFerro.jpeg"
+  },
+  {
+    "slug": "tantrum-rum-takum-fum-sahum",
+    "targetPath": "assets/brainrots/tantrum-rum-takum-fum-sahum.png",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Tantrum_Rum_Takum_Fum_Sahum",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/1/11/Captura_de_pantalla_2025-07-19_171559.png"
+  },
+  {
+    "slug": "teks-teks-teks-koreteks",
+    "targetPath": "assets/brainrots/teks-teks-teks-koreteks.png",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Teks_Teks_Teks_Koreteks",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/4/48/Teks_teks_korteks.png"
+  },
+  {
+    "slug": "tigrrullini-watermellini",
+    "targetPath": "assets/brainrots/tigrrullini-watermellini.webp",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Tigrrullini_Watermellini",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/e/e7/Stt4ZDZ8Pg-GHktZ2qyJtOfbBWrPGNXXO7n_zqupxmEXmf3Wm3zvEjuEXD0M7b78frKeWvxPFh06gx7s26tpno3GkjsgwbHVi60F0ipc3cVm8xq4qQ74nxw98putDSyhBEdVKdUWLYYpvzd2M3JPWA.webp"
+  },
+  {
+    "slug": "tob-tobi-tob-tob-tobi-tob",
+    "targetPath": "assets/brainrots/tob-tobi-tob-tob-tobi-tob.webp",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Tob_Tobi_Tob_Tob_Tobi_Tob",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/7/79/Toptobitob.webp"
+  },
+  {
+    "slug": "tralalero-tralala",
+    "targetPath": "assets/brainrots/tralalero-tralala.png",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Tralalero_Tralala",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/thumb/e/e0/Tralalelo_tralala.png/300px-Tralalelo_tralala.png"
+  },
+  {
+    "slug": "tric-trac-baraboom",
+    "targetPath": "assets/brainrots/tric-trac-baraboom.png",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Tric_Trac_Baraboom",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/thumb/f/f1/Tric_Trac_Baraboom.png/299px-Tric_Trac_Baraboom.png"
+  },
+  {
+    "slug": "trippi-troppi",
+    "targetPath": "assets/brainrots/trippi-troppi.png",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Trippi_Troppi",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/thumb/9/9e/Trippi_Troppi.webp/299px-Trippi_Troppi.webp.png"
+  },
+  {
+    "slug": "trulimero-trulicina",
+    "targetPath": "assets/brainrots/trulimero-trulicina.jpg",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Trulimero_Trulicina",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/9/98/Trulimero_.jpg"
+  },
+  {
+    "slug": "tung-tung-tung-sahur",
+    "targetPath": "assets/brainrots/tung-tung-tung-sahur.png",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Tung_Tung_Tung_sahur",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/thumb/f/fa/Tung_tung_tung_sahur.png/300px-Tung_tung_tung_sahur.png"
+  },
+  {
+    "slug": "turpialero-turpiala",
+    "targetPath": "assets/brainrots/turpialero-turpiala.jpg",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Turpialero_Turpial%C3%A1",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/9/9b/Turpialero_Turpial%C3%A1.jpg"
+  },
+  {
+    "slug": "tus-tus-tus-tus-tus-cactus",
+    "targetPath": "assets/brainrots/tus-tus-tus-tus-tus-cactus.png",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Tus_Tus_Tus_Tus_Tus_Tus_Cactus",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/2/21/Tus_Tus_Tus_Cactus.png"
+  },
+  {
+    "slug": "u-din-din-din-din-dun-ma-din-din-din-dun",
+    "targetPath": "assets/brainrots/u-din-din-din-din-dun-ma-din-din-din-dun.webp",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/U_Din_Din_Din_Din_Dun_Ma_Din_Din_Din_Dun",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/c/cb/U_Din_Din_Din_Din_Dun_Ma_Din_Din_Din_Dun2.webp"
+  },
+  {
+    "slug": "yo-tengo-un-tirititango",
+    "targetPath": "assets/brainrots/yo-tengo-un-tirititango.webp",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Yo_Tengo_un_Tirititango",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/8/8c/Yo_Tengo_un_Tirititango.webp"
+  },
+  {
+    "slug": "zebrossi-fumoso",
+    "targetPath": "assets/brainrots/zebrossi-fumoso.png",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Zebrossi_Fumoso",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/a/aa/Screenshot_2025-09-29_162529.png"
+  },
+  {
+    "slug": "zibra-zubra-zibralini",
+    "targetPath": "assets/brainrots/zibra-zubra-zibralini.png",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Zibra_Zubra_Zibralini",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/thumb/9/96/Zibra_zubra_zibralini.png/300px-Zibra_zubra_zibralini.png"
+  },
+  {
+    "slug": "zmakey-kiwitini",
+    "targetPath": "assets/brainrots/zmakey-kiwitini.png",
+    "sourcePageUrl": "https://italianbrainrot.miraheze.org/wiki/Zmakey_Kiwitini",
+    "sourceImageUrl": "https://static.wikitide.net/italianbrainrotwiki/6/66/ZmakeyKiwitiniFull.png"
+  }
+]

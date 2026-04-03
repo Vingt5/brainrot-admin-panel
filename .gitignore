@@ -11,6 +11,20 @@ node_modules
 dist
 dist-ssr
 *.local
+.playwright-cli/
+output/
+
+# Bot workspace
+bot/.env
+bot/node_modules/
+bot/dist/
+bot/coverage/
+bot/output/
+bot/.playwright-cli/
+bot/database/*.sqlite
+bot/database/*.sqlite-shm
+bot/database/*.sqlite-wal
+bot/.codex-*.log
 
 # Editor directories and files
 .vscode/*

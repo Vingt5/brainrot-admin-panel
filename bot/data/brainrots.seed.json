@@ -1,0 +1,1265 @@
+[
+  {
+    "id": "br-apipipipi",
+    "name": "Apipipipi",
+    "slug": "apipipipi",
+    "rarity": "common",
+    "imageUrl": "assets/brainrots/apipipipi.png",
+    "description": "Une immense flamme a pieds geants qui debarque dans le chaos avec une energie d'alarme permanente.",
+    "sourceStatus": "canon",
+    "aliases": []
+  },
+  {
+    "id": "br-avocadini-guffo",
+    "name": "Avocadini Guffo",
+    "slug": "avocadini-guffo",
+    "rarity": "legendary",
+    "imageUrl": "assets/brainrots/avocadini-guffo.webp",
+    "description": "Un avocat-hibou au regard lunaire, devenu une reference douce et absurde du brainrot.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "avocadini"
+    ]
+  },
+  {
+    "id": "br-ballerina-cappuccina",
+    "name": "Ballerina Cappuccina",
+    "slug": "ballerina-cappuccina",
+    "rarity": "rare",
+    "imageUrl": "assets/brainrots/ballerina-cappuccina.png",
+    "description": "Une ballerine en tasse de cappuccino, elegante, virale et parfaitement absurde.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "ballerina",
+      "cappuccina"
+    ]
+  },
+  {
+    "id": "br-ballerino-lololo",
+    "name": "Ballerino Lololo",
+    "slug": "ballerino-lololo",
+    "rarity": "common",
+    "imageUrl": "assets/brainrots/ballerino-lololo.png",
+    "description": "Un danseur muscle et theatral qui virevolte avec une grace absurde de diva brainrot.",
+    "sourceStatus": "popular_variant",
+    "aliases": [
+      "balerino"
+    ]
+  },
+  {
+    "id": "br-bambini-felicini",
+    "name": "Bambini Felicini",
+    "slug": "bambini-felicini",
+    "rarity": "rare",
+    "imageUrl": "assets/brainrots/bambini-felicini.png",
+    "description": "Une petite figure euphorique et faussement innocente, parfaite pour un nonsense joyeux.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "bambini"
+    ]
+  },
+  {
+    "id": "br-bau-bau-wang-wang-wolf-wolf-monarca",
+    "name": "Bau Bau Wang Wang Wolf Wolf Monarca",
+    "slug": "bau-bau-wang-wang-wolf-wolf-monarca",
+    "rarity": "rare",
+    "imageUrl": "assets/brainrots/bau-bau-wang-wang-wolf-wolf-monarca.png",
+    "description": "Un loup-monarque hurlant au rythme du chaos, importe du brainrot chinois le plus theatral.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "bau",
+      "bau bau"
+    ]
+  },
+  {
+    "id": "br-blueberrinni-octopussini",
+    "name": "Blueberrinni Octopussini",
+    "slug": "blueberrinni-octopussini",
+    "rarity": "common",
+    "imageUrl": "assets/brainrots/blueberrinni-octopussini.png",
+    "description": "Une fusion de myrtille et de poulpe qui transforme l'ocean en delire sucre.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "blueberrinni",
+      "octopussini"
+    ]
+  },
+  {
+    "id": "br-bobrini-cococosini",
+    "name": "Bobrini Cococosini",
+    "slug": "bobrini-cococosini",
+    "rarity": "common",
+    "imageUrl": "assets/brainrots/bobrini-cococosini.png",
+    "description": "Un castor noye dans la noix de coco, aussi rond qu'improbable.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "bobrini"
+    ]
+  },
+  {
+    "id": "br-bobrito-bandito",
+    "name": "Bobrito Bandito",
+    "slug": "bobrito-bandito",
+    "rarity": "rare",
+    "imageUrl": "assets/brainrots/bobrito-bandito.jpg",
+    "description": "Un bandit miniature et nerveux, parfait pour declencher des reclamations immediates.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "bobrito",
+      "bandito"
+    ]
+  },
+  {
+    "id": "br-bombardiro-crocodilo",
+    "name": "Bombardiro Crocodilo",
+    "slug": "bombardiro-crocodilo",
+    "rarity": "rare",
+    "imageUrl": "assets/brainrots/bombardiro-crocodilo.jpg",
+    "description": "Un crocodile bombardier qui survole le chaos en larguant une aura apocalyptique.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "bombardiro",
+      "crocodilo"
+    ]
+  },
+  {
+    "id": "br-bomberino-foxerino",
+    "name": "Bomberino Foxerino",
+    "slug": "bomberino-foxerino",
+    "rarity": "rare",
+    "imageUrl": "assets/brainrots/bomberino-foxerino.png",
+    "description": "Un renard-bombardier nerveux, concu pour semer une aura militaire dans chaque apparition.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "bomberino"
+    ]
+  },
+  {
+    "id": "br-bombombini-gusini",
+    "name": "Bombombini Gusini",
+    "slug": "bombombini-gusini",
+    "rarity": "rare",
+    "imageUrl": "assets/brainrots/bombombini-gusini.jpeg",
+    "description": "Une oie-avion de chasse, soeur canonique de Bombardiro Crocodilo et machine a aura militaire.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "bombombini",
+      "gusini",
+      "bombardini goosini"
+    ]
+  },
+  {
+    "id": "br-boneca-ambalabu",
+    "name": "Boneca Ambalabu",
+    "slug": "boneca-ambalabu",
+    "rarity": "mythic",
+    "imageUrl": "assets/brainrots/boneca-ambalabu.png",
+    "description": "Une entite hybride et deroutante, aussi culte qu'incomprehensible au premier regard.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "boneca",
+      "ambalabu",
+      "boneka ambalabu"
+    ]
+  },
+  {
+    "id": "br-bri-bri-bicus-dicus-de-bicus-de-dicus",
+    "name": "Bri Bri Bicus Dicus De Bicus De Dicus",
+    "slug": "bri-bri-bicus-dicus-de-bicus-de-dicus",
+    "rarity": "common",
+    "imageUrl": "assets/brainrots/bri-bri-bicus-dicus-de-bicus-de-dicus.webp",
+    "description": "Une formule sonore devenue personnage, portee par la pure magie d'un nom interminable.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "bri",
+      "bri bri"
+    ]
+  },
+  {
+    "id": "br-brim-brim-brim-brum",
+    "name": "Brim Brim Brim Brum",
+    "slug": "brim-brim-brim-brum",
+    "rarity": "legendary",
+    "imageUrl": "assets/brainrots/brim-brim-brim-brum.jpg",
+    "description": "Un moteur de boucle sonore qui avance par percussion et absurdite pure.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "brim",
+      "brim brim"
+    ]
+  },
+  {
+    "id": "br-brr-brr-gangster-gusini",
+    "name": "Brr Brr Gangster Gusini",
+    "slug": "brr-brr-gangster-gusini",
+    "rarity": "rare",
+    "imageUrl": "assets/brainrots/brr-brr-gangster-gusini.jpg",
+    "description": "Une oie gangster surexcitee, armee d'une energie mafieuse completement derangee.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "gangster",
+      "gangster gusini"
+    ]
+  },
+  {
+    "id": "br-brr-brr-patapim",
+    "name": "Brr Brr Patapim",
+    "slug": "brr-brr-patapim",
+    "rarity": "rare",
+    "imageUrl": "assets/brainrots/brr-brr-patapim.jpeg",
+    "description": "Un primate sylvestre devenu formule sacree du brainrot en boucle infinie.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "patapim",
+      "brr patapim"
+    ]
+  },
+  {
+    "id": "br-brr-es-teh-patipum",
+    "name": "Brr Es Teh Patipum",
+    "slug": "brr-es-teh-patipum",
+    "rarity": "common",
+    "imageUrl": "assets/brainrots/brr-es-teh-patipum.jpg",
+    "description": "Un villageois-the glace devenu icone de sahur, frais, etrange et immediatement memetique.",
+    "sourceStatus": "popular_variant",
+    "aliases": [
+      "teh",
+      "teh patipum"
+    ]
+  },
+  {
+    "id": "br-buffalo-cactusuffalo",
+    "name": "Buffalo Cactusuffalo",
+    "slug": "buffalo-cactusuffalo",
+    "rarity": "rare",
+    "imageUrl": "assets/brainrots/buffalo-cactusuffalo.png",
+    "description": "Un buffle-cactus herisse qui impose une presence desertique et piquante.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "bufalo"
+    ]
+  },
+  {
+    "id": "br-bulbito-bandito-traktorito",
+    "name": "Bulbito Bandito Traktorito",
+    "slug": "bulbito-bandito-traktorito",
+    "rarity": "common",
+    "imageUrl": "assets/brainrots/bulbito-bandito-traktorito.webp",
+    "description": "Une patate-bandit sur tracteur, taillee pour le chaos agricole.",
+    "sourceStatus": "popular_variant",
+    "aliases": [
+      "bulbito",
+      "bulbito bandito"
+    ]
+  },
+  {
+    "id": "br-bum-bum-dragolo",
+    "name": "Bum Bum Dragolo",
+    "slug": "bum-bum-dragolo",
+    "rarity": "rare",
+    "imageUrl": "assets/brainrots/bum-bum-dragolo.jpg",
+    "description": "Un dragon joueur de water-polo, anomalie sportive nee pour deregler la timeline.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "bum",
+      "bum bum"
+    ]
+  },
+  {
+    "id": "br-bunny-mailo-zippito-caro",
+    "name": "Bunny Mailo Zippito Caro",
+    "slug": "bunny-mailo-zippito-caro",
+    "rarity": "common",
+    "imageUrl": "assets/brainrots/bunny-mailo-zippito-caro.png",
+    "description": "Un lapin-facteur zippe qui traverse le salon a toute vitesse.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "buny",
+      "buny mailo"
+    ]
+  },
+  {
+    "id": "br-burbaloni-lulliloli",
+    "name": "Burbaloni Lulliloli",
+    "slug": "burbaloni-lulliloli",
+    "rarity": "common",
+    "imageUrl": "assets/brainrots/burbaloni-lulliloli.png",
+    "description": "Une creature douce et chantante, portee par un nom qui tourne en boucle.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "burbaloni"
+    ]
+  },
+  {
+    "id": "br-burger",
+    "name": "Burger",
+    "slug": "burger",
+    "rarity": "epic",
+    "imageUrl": "assets/brainrots/burger.png",
+    "description": "Le burger antagoniste du lore brainrot, a la fois ridicule et etonnamment central.",
+    "sourceStatus": "canon",
+    "aliases": []
+  },
+  {
+    "id": "br-burgerini-bearini",
+    "name": "Burgerini Bearini",
+    "slug": "burgerini-bearini",
+    "rarity": "rare",
+    "imageUrl": "assets/brainrots/burgerini-bearini.png",
+    "description": "Un ours-burger massif, melange parfait entre comfort food et chaos velu.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "burgerini"
+    ]
+  },
+  {
+    "id": "br-camelo-cruasantino",
+    "name": "Camelo Cruasantino",
+    "slug": "camelo-cruasantino",
+    "rarity": "epic",
+    "imageUrl": "assets/brainrots/camelo-cruasantino.jpg",
+    "description": "Un chameau-croissant perdu dans le desert, pur concentre de nonsense dore.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "camelo"
+    ]
+  },
+  {
+    "id": "br-cappuccino-assassino",
+    "name": "Cappuccino Assassino",
+    "slug": "cappuccino-assassino",
+    "rarity": "rare",
+    "imageUrl": "assets/brainrots/cappuccino-assassino.png",
+    "description": "Un cappuccino arme au regard dangereux, taille pour les edits dramatiques et le chaos absolu.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "cappuccino",
+      "assassino",
+      "capu"
+    ]
+  },
+  {
+    "id": "br-chef-crabracadabra",
+    "name": "Chef Crabracadabra",
+    "slug": "chef-crabracadabra",
+    "rarity": "common",
+    "imageUrl": "assets/brainrots/chef-crabracadabra.jpg",
+    "description": "Un orang-outan a l'aura d'ananas et de magie culinaire, aussi drole qu'inexplicable.",
+    "sourceStatus": "popular_variant",
+    "aliases": [
+      "Pineapple Orangutan",
+      "chef"
+    ]
+  },
+  {
+    "id": "br-chimpanzini-bananini",
+    "name": "Chimpanzini Bananini",
+    "slug": "chimpanzini-bananini",
+    "rarity": "rare",
+    "imageUrl": "assets/brainrots/chimpanzini-bananini.png",
+    "description": "Un chimpanze-banane hyper viral, condense tropical de nonsense pur.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "chimpanzini",
+      "bananini"
+    ]
+  },
+  {
+    "id": "br-chimpanzini-chimpanzi",
+    "name": "Chimpanzini Chimpanzi",
+    "slug": "chimpanzini-chimpanzi",
+    "rarity": "rare",
+    "imageUrl": "assets/brainrots/chimpanzini-chimpanzi.png",
+    "description": "Un chimpanze viral a l'energie brute, pense pour frapper vite et rester en tete.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "chimpanzini"
+    ]
+  },
+  {
+    "id": "br-coccodrilli-faerini",
+    "name": "Coccodrilli Faerini",
+    "slug": "coccodrilli-faerini",
+    "rarity": "epic",
+    "imageUrl": "assets/brainrots/coccodrilli-faerini.webp",
+    "description": "Une lignee crocodile feerique ou le reptile rencontre un imaginaire presque enchante.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "cocodrili"
+    ]
+  },
+  {
+    "id": "br-cocofanto-elefanto",
+    "name": "Cocofanto Elefanto",
+    "slug": "cocofanto-elefanto",
+    "rarity": "common",
+    "imageUrl": "assets/brainrots/cocofanto-elefanto.png",
+    "description": "Un elephant-coco au charisme absurde, aussi doux visuellement qu'improbable conceptuellement.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "cocofanto",
+      "elefanto"
+    ]
+  },
+  {
+    "id": "br-crocodillo-ananasino-bombardetto-ananasetto",
+    "name": "Crocodillo Ananasino Bombardetto Ananasetto",
+    "slug": "crocodillo-ananasino-bombardetto-ananasetto",
+    "rarity": "mythic",
+    "imageUrl": "assets/brainrots/crocodillo-ananasino-bombardetto-ananasetto.jpg",
+    "description": "Une version ananas de Bombardiro Crocodilo, plus fruitee mais tout aussi explosive.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "crocodilo",
+      "crocodilo ananasino"
+    ]
+  },
+  {
+    "id": "br-dragonfrutini-monkeyuchi",
+    "name": "Dragonfrutini Monkeyuchi",
+    "slug": "dragonfrutini-monkeyuchi",
+    "rarity": "legendary",
+    "imageUrl": "assets/brainrots/dragonfrutini-monkeyuchi.png",
+    "description": "Un singe-pitaya sature de couleurs, concu pour un delire tropical maximal.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "dragonfrutini"
+    ]
+  },
+  {
+    "id": "br-duk-duk-duk-beraduk-sapi-uduk",
+    "name": "Duk Duk Duk Beraduk Sapi Uduk",
+    "slug": "duk-duk-duk-beraduk-sapi-uduk",
+    "rarity": "epic",
+    "imageUrl": "assets/brainrots/duk-duk-duk-beraduk-sapi-uduk.png",
+    "description": "Une vache sahur frenetique, portee par un rythme de percussion impossible a oublier.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "Beduk Duk Duk Beraduk Sapi Uduk",
+      "duk",
+      "duk duk"
+    ]
+  },
+  {
+    "id": "br-ecco-cavallo-virtuoso",
+    "name": "Ecco Cavallo Virtuoso",
+    "slug": "ecco-cavallo-virtuoso",
+    "rarity": "common",
+    "imageUrl": "assets/brainrots/ecco-cavallo-virtuoso.jpg",
+    "description": "Un cheval showman extravagant, fait pour entrer en scene avec beaucoup trop de panache.",
+    "sourceStatus": "popular_variant",
+    "aliases": [
+      "eco",
+      "eco cavalo"
+    ]
+  },
+  {
+    "id": "br-el-porquito-mechicanito",
+    "name": "El Porquito Mechicanito",
+    "slug": "el-porquito-mechicanito",
+    "rarity": "rare",
+    "imageUrl": "assets/brainrots/el-porquito-mechicanito.jpg",
+    "description": "Un petit cochon mecanique et latin, ne d'un brainrot transcontinental tres bruyant.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "porquito"
+    ]
+  },
+  {
+    "id": "br-espressona-signora",
+    "name": "Espressona Signora",
+    "slug": "espressona-signora",
+    "rarity": "common",
+    "imageUrl": "assets/brainrots/espressona-signora.png",
+    "description": "Une grande dame espresso, elegante, nerveuse et prete a regner sur le cafeverse.",
+    "sourceStatus": "popular_variant",
+    "aliases": [
+      "Espresso Lady",
+      "espresona"
+    ]
+  },
+  {
+    "id": "br-flamingo-salpino-girino",
+    "name": "Flamingo Salpino Girino",
+    "slug": "flamingo-salpino-girino",
+    "rarity": "rare",
+    "imageUrl": "assets/brainrots/flamingo-salpino-girino.jpg",
+    "description": "Un flamant aux grands pieds et a la couronne verte, pur delire de parade.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "IIIIUIIUIIUIIUIIUIUIUIUIUIUIU Flamingo Salpino Girino",
+      "flamingo",
+      "flamingo salpino"
+    ]
+  },
+  {
+    "id": "br-flamino-scutetti",
+    "name": "Flamino Scutetti",
+    "slug": "flamino-scutetti",
+    "rarity": "mythic",
+    "imageUrl": "assets/brainrots/flamino-scutetti.jpg",
+    "description": "Un flamant au style sec et nerveux, fait pour des apparitions au gout d'etrangete.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "flamino"
+    ]
+  },
+  {
+    "id": "br-frigo-camelo",
+    "name": "Frigo Camelo",
+    "slug": "frigo-camelo",
+    "rarity": "common",
+    "imageUrl": "assets/brainrots/frigo-camelo.png",
+    "description": "Un chameau-refrigerateur improbable qui traverse le desert en diffusant une aura glaciale.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "frigo",
+      "camelo"
+    ]
+  },
+  {
+    "id": "br-fritto-peppino-supremo",
+    "name": "Fritto Peppino Supremo",
+    "slug": "fritto-peppino-supremo",
+    "rarity": "legendary",
+    "imageUrl": "assets/brainrots/fritto-peppino-supremo.png",
+    "description": "Une figure frite supreme, croustillante et parfaitement consciente de son aura.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "frito",
+      "frito pepino"
+    ]
+  },
+  {
+    "id": "br-frulli-frulla",
+    "name": "Frulli Frulla",
+    "slug": "frulli-frulla",
+    "rarity": "rare",
+    "imageUrl": "assets/brainrots/frulli-frulla.jpeg",
+    "description": "Un oiseau branche a lunettes rondes qui ne lache jamais sa tasse de cafe.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "Trendy Bird",
+      "frulli"
+    ]
+  },
+  {
+    "id": "br-ganganzelli-trulala",
+    "name": "Ganganzelli Trulala",
+    "slug": "ganganzelli-trulala",
+    "rarity": "legendary",
+    "imageUrl": "assets/brainrots/ganganzelli-trulala.webp",
+    "description": "Un mafieux chimique et orange, fabrique pour synthetiser le chaos.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "ganganzeli"
+    ]
+  },
+  {
+    "id": "br-gangster-footera",
+    "name": "Gangster Footera",
+    "slug": "gangster-footera",
+    "rarity": "epic",
+    "imageUrl": "assets/brainrots/gangster-footera.png",
+    "description": "Une silhouette de gangster reduite a des pieds menacants et a une demarche suspecte.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "gangster"
+    ]
+  },
+  {
+    "id": "br-garamararambraramanmararaman-dan-madudungdung-tak-tuntung-perkuntung",
+    "name": "Garamararambraramanmararaman Dan Madudungdung Tak Tuntung Perkuntung",
+    "slug": "garamararambraramanmararaman-dan-madudungdung-tak-tuntung-perkuntung",
+    "rarity": "common",
+    "imageUrl": "assets/brainrots/garamararambraramanmararaman-dan-madudungdung-tak-tuntung-perkuntung.webp",
+    "description": "Un nom-fleuve devenu entite totale, capable d'engloutir tout le salon a lui seul.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "garamararambraramanmararaman",
+      "garamararambraramanmararaman madudungdung"
+    ]
+  },
+  {
+    "id": "br-gatille-cafille",
+    "name": "Gatille Cafillé",
+    "slug": "gatille-cafille",
+    "rarity": "common",
+    "imageUrl": "assets/brainrots/gatille-cafille.jpeg",
+    "description": "Un chat-cafe compact et nerveux, parfait pour injecter une energie espresso dans la partie.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "gatille",
+      "cafille",
+      "gatti coffee"
+    ]
+  },
+  {
+    "id": "br-girafa-celeste",
+    "name": "Giraffa Celeste",
+    "slug": "girafa-celeste",
+    "rarity": "common",
+    "imageUrl": "assets/brainrots/girafa-celeste.png",
+    "description": "Une girafe celeste en voyage pastoral, suspendue entre campagne doree et reve cosmique.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "giraffa"
+    ]
+  },
+  {
+    "id": "br-glorbo-fruttodrillo",
+    "name": "Glorbo Fruttodrillo",
+    "slug": "glorbo-fruttodrillo",
+    "rarity": "common",
+    "imageUrl": "assets/brainrots/glorbo-fruttodrillo.jpg",
+    "description": "Un crocodile fruite a la silhouette premium, souvent percu comme une montee en gamme du chaos reptilien.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "glorbo",
+      "fruttodrillo"
+    ]
+  },
+  {
+    "id": "br-gorgonzilla",
+    "name": "Gorgonzilla",
+    "slug": "gorgonzilla",
+    "rarity": "rare",
+    "imageUrl": "assets/brainrots/gorgonzilla.png",
+    "description": "Un monstre au fromage qui transforme le grotesque en menace premium.",
+    "sourceStatus": "canon",
+    "aliases": []
+  },
+  {
+    "id": "br-graipussi-medussi",
+    "name": "Graipussi Medussi",
+    "slug": "graipussi-medussi",
+    "rarity": "legendary",
+    "imageUrl": "assets/brainrots/graipussi-medussi.jpg",
+    "description": "Une meduse raisin recitee comme une formule magique completement instable.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "graipusi"
+    ]
+  },
+  {
+    "id": "br-greng-greng-greng-greng-greng-bus-ireng",
+    "name": "Greng Greng Greng Greng Greng Bus Ireng",
+    "slug": "greng-greng-greng-greng-greng-bus-ireng",
+    "rarity": "rare",
+    "imageUrl": "assets/brainrots/greng-greng-greng-greng-greng-bus-ireng.jpeg",
+    "description": "Un bus noir scande comme une incantation, devenu machine a brainrot pur.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "greng",
+      "greng greng"
+    ]
+  },
+  {
+    "id": "br-gusino-tractorino",
+    "name": "Gusino Tractorino",
+    "slug": "gusino-tractorino",
+    "rarity": "common",
+    "imageUrl": "assets/brainrots/gusino-tractorino.png",
+    "description": "Une oie malefique sur tracteur, prete a labourer le salon et le chat textuel.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "gusino",
+      "tractorino"
+    ]
+  },
+  {
+    "id": "br-hippobardos-bombardone",
+    "name": "Hippobardos Bombardone",
+    "slug": "hippobardos-bombardone",
+    "rarity": "rare",
+    "imageUrl": "assets/brainrots/hippobardos-bombardone.png",
+    "description": "Un hippopotame bombardier colossal, pense pour les apparitions les plus lourdes.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "hipobardos"
+    ]
+  },
+  {
+    "id": "br-hukkin-bakibaki-amasa-ni-muteki-chocolate",
+    "name": "Hukkin-Bakibaki Amasa-Ni-Muteki Chocolate",
+    "slug": "hukkin-bakibaki-amasa-ni-muteki-chocolate",
+    "rarity": "epic",
+    "imageUrl": "assets/brainrots/hukkin-bakibaki-amasa-ni-muteki-chocolate.jpg",
+    "description": "Une tablette de chocolat japonaise survitaminee, entierement batie sur l'exces.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "hukin",
+      "hukin bakibaki"
+    ]
+  },
+  {
+    "id": "br-il-cacto-hipopotamo",
+    "name": "Il Cacto Hipopotamo",
+    "slug": "il-cacto-hipopotamo",
+    "rarity": "rare",
+    "imageUrl": "assets/brainrots/il-cacto-hipopotamo.webp",
+    "description": "Un cactus-hippopotame sec et massif, fusion parfaite entre desert et lourdeur.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "Cactus Hippo",
+      "cacto"
+    ]
+  },
+  {
+    "id": "br-inilah-sosok-orang-yang-selalu-ngomong",
+    "name": "Inilah sosok orang yang selalu ngomong",
+    "slug": "inilah-sosok-orang-yang-selalu-ngomong",
+    "rarity": "epic",
+    "imageUrl": "assets/brainrots/inilah-sosok-orang-yang-selalu-ngomong.jpeg",
+    "description": "Une figure connue pour parler sans fin, devenue meme a force de repetition.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "inilah",
+      "inilah sosok"
+    ]
+  },
+  {
+    "id": "br-jelephant",
+    "name": "Jelephant",
+    "slug": "jelephant",
+    "rarity": "legendary",
+    "imageUrl": "assets/brainrots/jelephant.png",
+    "description": "Un elephant-gelee qui pousse l'absurde jusqu'au stade de relique sonore.",
+    "sourceStatus": "canon",
+    "aliases": []
+  },
+  {
+    "id": "br-la-vacca-saturno-saturnita",
+    "name": "La Vacca Saturno Saturnita",
+    "slug": "la-vacca-saturno-saturnita",
+    "rarity": "common",
+    "imageUrl": "assets/brainrots/la-vacca-saturno-saturnita.png",
+    "description": "Une vache cosmique entouree d'anneaux planetaires et de pure absurdite orbitale.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "vacca saturno",
+      "saturnita"
+    ]
+  },
+  {
+    "id": "br-leonelli-cactuselli",
+    "name": "Leonelli Cactuselli",
+    "slug": "leonelli-cactuselli",
+    "rarity": "common",
+    "imageUrl": "assets/brainrots/leonelli-cactuselli.webp",
+    "description": "Un lion-cactus chante comme une comptine, fier, piquant et trop sur de lui.",
+    "sourceStatus": "popular_variant",
+    "aliases": [
+      "leoneli"
+    ]
+  },
+  {
+    "id": "br-lirili-larila",
+    "name": "Lirili Larila",
+    "slug": "lirili-larila",
+    "rarity": "rare",
+    "imageUrl": "assets/brainrots/lirili-larila.jpeg",
+    "description": "Un elephant-cactus en sandales qui traverse la partie comme un reve fievreux.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "lirili",
+      "larila"
+    ]
+  },
+  {
+    "id": "br-matteoo",
+    "name": "Matteoo",
+    "slug": "matteoo",
+    "rarity": "common",
+    "imageUrl": "assets/brainrots/matteoo.png",
+    "description": "Une silhouette brainrot ultra simple mais immediatement reconnaissable, taillee pour devenir un running gag.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "matteo",
+      "matteoo"
+    ]
+  },
+  {
+    "id": "br-mattiaaaaaaaassss",
+    "name": "Mattiaaaaaaaassss",
+    "slug": "mattiaaaaaaaassss",
+    "rarity": "epic",
+    "imageUrl": "assets/brainrots/mattiaaaaaaaassss.png",
+    "description": "Un hurlement de prenom devenu personnage a part entiere, pur running gag incarne.",
+    "sourceStatus": "canon",
+    "aliases": []
+  },
+  {
+    "id": "br-mecratto-vortole",
+    "name": "Mecratto Vortole",
+    "slug": "mecratto-vortole",
+    "rarity": "epic",
+    "imageUrl": "assets/brainrots/mecratto-vortole.png",
+    "description": "Une creature reputee surpuissante, comme si le brainrot avait enfin son boss final.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "mecrato"
+    ]
+  },
+  {
+    "id": "br-motor-sahur",
+    "name": "Motor Sahur",
+    "slug": "motor-sahur",
+    "rarity": "rare",
+    "imageUrl": "assets/brainrots/motor-sahur.jpg",
+    "description": "Une moto de sahur lancee plein gaz dans le chaos nocturne.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "motor"
+    ]
+  },
+  {
+    "id": "br-noo-la-polizia",
+    "name": "Noo La Polizia",
+    "slug": "noo-la-polizia",
+    "rarity": "common",
+    "imageUrl": "assets/brainrots/noo-la-polizia.png",
+    "description": "Une apparition policiere squelettique, toujours a deux secondes de briser l'ambiance.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "polizia"
+    ]
+  },
+  {
+    "id": "br-nooo-my-hotspot",
+    "name": "Nooo My Hotspot",
+    "slug": "nooo-my-hotspot",
+    "rarity": "epic",
+    "imageUrl": "assets/brainrots/nooo-my-hotspot.jpg",
+    "description": "La panique moderne du partage de connexion, transformee en brainrot technologique.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "hotspot"
+    ]
+  },
+  {
+    "id": "br-nug-nug-nug-sahur",
+    "name": "Nug Nug Nug Sahur",
+    "slug": "nug-nug-nug-sahur",
+    "rarity": "legendary",
+    "imageUrl": "assets/brainrots/nug-nug-nug-sahur.jpg",
+    "description": "Un classique sahur martele comme une alarme rituelle du chaos collectif.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "nug",
+      "nug nug"
+    ]
+  },
+  {
+    "id": "br-nukum-kaixana",
+    "name": "Nukum Kaixana",
+    "slug": "nukum-kaixana",
+    "rarity": "epic",
+    "imageUrl": "assets/brainrots/nukum-kaixana.jpeg",
+    "description": "Une figure seche et tranchante, nee pour laisser une impression etrange et durable.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "nukum"
+    ]
+  },
+  {
+    "id": "br-orangutini-ananasini",
+    "name": "Orangutini Ananasini",
+    "slug": "orangutini-ananasini",
+    "rarity": "common",
+    "imageUrl": "assets/brainrots/orangutini-ananasini.jpg",
+    "description": "Un orang-outan ananas qui concentre toute l'energie fruitee et absurde du genre.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "orangutini",
+      "ananasini"
+    ]
+  },
+  {
+    "id": "br-patapimus-maximus",
+    "name": "Patapimus Maximus",
+    "slug": "patapimus-maximus",
+    "rarity": "common",
+    "imageUrl": "assets/brainrots/patapimus-maximus.png",
+    "description": "La version colossale et romaine du delire Patapim, forgee pour l'arene et la grandeur absurde.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "patapimus",
+      "great patapim"
+    ]
+  },
+  {
+    "id": "br-perochello-lemonchello",
+    "name": "Perochello Lemonchello",
+    "slug": "perochello-lemonchello",
+    "rarity": "common",
+    "imageUrl": "assets/brainrots/perochello-lemonchello.png",
+    "description": "Une fusion citronnee au rendu instable, nee pour occuper les sommets des brainrots secondaires.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "perochello",
+      "lemonchello"
+    ]
+  },
+  {
+    "id": "br-piccione-macchina",
+    "name": "Piccione Macchina",
+    "slug": "piccione-macchina",
+    "rarity": "common",
+    "imageUrl": "assets/brainrots/piccione-macchina.png",
+    "description": "Un pigeon-camion en chaussures blanches, alliance parfaite entre mecanique et volatil.",
+    "sourceStatus": "popular_variant",
+    "aliases": [
+      "picione"
+    ]
+  },
+  {
+    "id": "br-pinguinucha-de-la-eterna-lucha",
+    "name": "Pinguinucha de la Eterna Lucha",
+    "slug": "pinguinucha-de-la-eterna-lucha",
+    "rarity": "legendary",
+    "imageUrl": "assets/brainrots/pinguinucha-de-la-eterna-lucha.png",
+    "description": "Un pingouin bagarreur a l'aura heroique, toujours pret pour la lutte eternelle.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "pinguinucha",
+      "pinguinucha eterna"
+    ]
+  },
+  {
+    "id": "br-pot-hotspot",
+    "name": "Pot Hotspot",
+    "slug": "pot-hotspot",
+    "rarity": "rare",
+    "imageUrl": "assets/brainrots/pot-hotspot.webp",
+    "description": "Une scene de hotspot poussee jusqu'au ridicule total, embleme du brainrot indonesien.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "Hotspot Bro?",
+      "pot"
+    ]
+  },
+  {
+    "id": "br-rarabougri-kiki-pipi",
+    "name": "Rarabougri Kiki Pipi",
+    "slug": "rarabougri-kiki-pipi",
+    "rarity": "rare",
+    "imageUrl": "assets/brainrots/rarabougri-kiki-pipi.png",
+    "description": "Une comptine absurde qui se transforme en creature a force d'etre repetee.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "rarabougri",
+      "rarabougri kiki"
+    ]
+  },
+  {
+    "id": "br-ren-guo-ping-de-pa",
+    "name": "Ren Guo Ping De Pa",
+    "slug": "ren-guo-ping-de-pa",
+    "rarity": "rare",
+    "imageUrl": "assets/brainrots/ren-guo-ping-de-pa.png",
+    "description": "Une formule sino-rythmique devenue personnage culte du chaos collectif.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "ren",
+      "ren guo"
+    ]
+  },
+  {
+    "id": "br-rhino-toasterino",
+    "name": "Rhino Toasterino",
+    "slug": "rhino-toasterino",
+    "rarity": "common",
+    "imageUrl": "assets/brainrots/rhino-toasterino.png",
+    "description": "Un rhinoceros grille-pain avec une presence chaotique, industrielle et immediatement memetique.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "rhino",
+      "toasterino"
+    ]
+  },
+  {
+    "id": "br-sigma-boy",
+    "name": "Sigma Boy",
+    "slug": "sigma-boy",
+    "rarity": "common",
+    "imageUrl": "assets/brainrots/sigma-boy.jpg",
+    "description": "Une entite surboostee au nom de sigma, entre sushi, pingouin et puissance autoproclamee.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "sigma"
+    ]
+  },
+  {
+    "id": "br-spaghetti-tualetti",
+    "name": "Spaghetti Tualetti",
+    "slug": "spaghetti-tualetti",
+    "rarity": "common",
+    "imageUrl": "assets/brainrots/spaghetti-tualetti.webp",
+    "description": "Un spaghetti de toilettes scande comme un hymne dangereux du cafeverse.",
+    "sourceStatus": "popular_variant",
+    "aliases": [
+      "spagheti"
+    ]
+  },
+  {
+    "id": "br-ta-ta-ta-sahur",
+    "name": "Ta Ta Ta Sahur",
+    "slug": "ta-ta-ta-sahur",
+    "rarity": "common",
+    "imageUrl": "assets/brainrots/ta-ta-ta-sahur.png",
+    "description": "Une percussion de sahur courte, seche et immediatement collante.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "sahur"
+    ]
+  },
+  {
+    "id": "br-ta-ta-ta-ta-ta-ta-ta-ta-ta-ta-ta-sahur",
+    "name": "Ta Ta Ta Ta Ta Ta Ta Sahur",
+    "slug": "ta-ta-ta-ta-ta-ta-ta-ta-ta-ta-ta-sahur",
+    "rarity": "epic",
+    "imageUrl": "assets/brainrots/ta-ta-ta-ta-ta-ta-ta-ta-ta-ta-ta-sahur.png",
+    "description": "Une version allongee et plus mysterieuse du rituel sahur, encore plus obsedante.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "sahur"
+    ]
+  },
+  {
+    "id": "br-tai-tai-tai-tai-tai-tai-taichi-lulujibadaodaoguanmastero",
+    "name": "Tai Tai Tai Tai Tai Tai TaiChi Lulujibadaodaoguanmastero",
+    "slug": "tai-tai-tai-tai-tai-tai-taichi-lulujibadaodaoguanmastero",
+    "rarity": "rare",
+    "imageUrl": "assets/brainrots/tai-tai-tai-tai-tai-tai-taichi-lulujibadaodaoguanmastero.jpg",
+    "description": "Un maitre de tai-chi au nom impossible, forge pour hypnotiser le chat.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "tai",
+      "tai tai"
+    ]
+  },
+  {
+    "id": "br-talpa-di-ferro",
+    "name": "Talpa Di Ferro",
+    "slug": "talpa-di-ferro",
+    "rarity": "common",
+    "imageUrl": "assets/brainrots/talpa-di-ferro.jpeg",
+    "description": "Une taupe de fer foreuse, pensee comme un agent d'espionnage venu des entrailles.",
+    "sourceStatus": "popular_variant",
+    "aliases": [
+      "Iron Mole",
+      "Mechanical Mole",
+      "talpa"
+    ]
+  },
+  {
+    "id": "br-tantrum-rum-takum-fum-sahum",
+    "name": "Tantrum Rum Takum Fum Sahum",
+    "slug": "tantrum-rum-takum-fum-sahum",
+    "rarity": "legendary",
+    "imageUrl": "assets/brainrots/tantrum-rum-takum-fum-sahum.png",
+    "description": "Un brainrot hispano-italien bati sur la percussion, le tumulte et la montee sonore.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "tantrum",
+      "tantrum rum"
+    ]
+  },
+  {
+    "id": "br-teks-teks-teks-koreteks",
+    "name": "Teks Teks Teks Koreteks",
+    "slug": "teks-teks-teks-koreteks",
+    "rarity": "epic",
+    "imageUrl": "assets/brainrots/teks-teks-teks-koreteks.png",
+    "description": "Une entite de texte martele qui transforme chaque syllabe en bug cerebral.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "teks",
+      "teks teks"
+    ]
+  },
+  {
+    "id": "br-tigrrullini-watermellini",
+    "name": "Tigrrullini Watermellini",
+    "slug": "tigrrullini-watermellini",
+    "rarity": "common",
+    "imageUrl": "assets/brainrots/tigrrullini-watermellini.webp",
+    "description": "Un tigre-pasteque juteux et nerveux, ne pour le chaos fruite.",
+    "sourceStatus": "popular_variant",
+    "aliases": [
+      "Watermelon Tiger",
+      "tigrulini"
+    ]
+  },
+  {
+    "id": "br-tob-tobi-tob-tob-tobi-tob",
+    "name": "Tob Tobi Tob Tob Tobi Tob",
+    "slug": "tob-tobi-tob-tob-tobi-tob",
+    "rarity": "common",
+    "imageUrl": "assets/brainrots/tob-tobi-tob-tob-tobi-tob.webp",
+    "description": "Un chameau-cactus barbu perdu pres de toilettes desertiques, nonsense total assume.",
+    "sourceStatus": "popular_variant",
+    "aliases": [
+      "tob",
+      "tob tobi"
+    ]
+  },
+  {
+    "id": "br-tralalero-tralala",
+    "name": "Tralalero Tralala",
+    "slug": "tralalero-tralala",
+    "rarity": "mythic",
+    "imageUrl": "assets/brainrots/tralalero-tralala.png",
+    "description": "Le requin en baskets devenu l'un des visages les plus iconiques de tout l'Italian brainrot.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "tralalero",
+      "tralala"
+    ]
+  },
+  {
+    "id": "br-tric-trac-baraboom",
+    "name": "Tric Trac Baraboom",
+    "slug": "tric-trac-baraboom",
+    "rarity": "common",
+    "imageUrl": "assets/brainrots/tric-trac-baraboom.png",
+    "description": "Un heritier vegetal et explosif de la lignee Patapim, toujours pret a faire derailler la partie.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "tric trac",
+      "baraboom"
+    ]
+  },
+  {
+    "id": "br-trippi-troppi",
+    "name": "Trippi Troppi",
+    "slug": "trippi-troppi",
+    "rarity": "rare",
+    "imageUrl": "assets/brainrots/trippi-troppi.png",
+    "description": "Une creature nerveuse et saturee d'aura, faite pour les montages rapides et les edits trop intenses.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "trippi",
+      "troppi"
+    ]
+  },
+  {
+    "id": "br-trulimero-trulicina",
+    "name": "Trulimero Trulicina",
+    "slug": "trulimero-trulicina",
+    "rarity": "common",
+    "imageUrl": "assets/brainrots/trulimero-trulicina.jpg",
+    "description": "Une girafe celeste en voyage agreste, melange assume de campagne, d'espace et de reve.",
+    "sourceStatus": "popular_variant",
+    "aliases": [
+      "Celestial Giraffe",
+      "Giraffa Celeste",
+      "trulimero"
+    ]
+  },
+  {
+    "id": "br-tung-tung-tung-sahur",
+    "name": "Tung Tung Tung Sahur",
+    "slug": "tung-tung-tung-sahur",
+    "rarity": "rare",
+    "imageUrl": "assets/brainrots/tung-tung-tung-sahur.png",
+    "description": "Une figure martelante du meme audio, toujours accompagnee d'une entree inquietante.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "tung tung tung",
+      "sahur"
+    ]
+  },
+  {
+    "id": "br-turpialero-turpiala",
+    "name": "Turpialero Turpialá",
+    "slug": "turpialero-turpiala",
+    "rarity": "mythic",
+    "imageUrl": "assets/brainrots/turpialero-turpiala.jpg",
+    "description": "Un turpial venezuelien en chaussures, produit rare d'un brainrot hispanophone tres propre.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "turpialero"
+    ]
+  },
+  {
+    "id": "br-tus-tus-tus-tus-tus-cactus",
+    "name": "Tus Tus Tus Tus Tus Cactus",
+    "slug": "tus-tus-tus-tus-tus-cactus",
+    "rarity": "epic",
+    "imageUrl": "assets/brainrots/tus-tus-tus-tus-tus-cactus.png",
+    "description": "Un cactus percussif qui avance a coups de syllabes seches et repetees.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "Tus Tus Tus Tus Tus Tus Cactus",
+      "tus",
+      "tus tus"
+    ]
+  },
+  {
+    "id": "br-u-din-din-din-din-dun-ma-din-din-din-dun",
+    "name": "U Din Din Din Din Dun Ma Din Din Din Dun",
+    "slug": "u-din-din-din-din-dun-ma-din-din-din-dun",
+    "rarity": "common",
+    "imageUrl": "assets/brainrots/u-din-din-din-din-dun-ma-din-din-din-dun.webp",
+    "description": "Un bodybuilder orange defini presque entierement par son rythme et son nom interminable.",
+    "sourceStatus": "popular_variant",
+    "aliases": [
+      "Orange Bodybuilder?",
+      "din",
+      "din din"
+    ]
+  },
+  {
+    "id": "br-yo-tengo-un-tirititango",
+    "name": "Yo Tengo un Tirititango",
+    "slug": "yo-tengo-un-tirititango",
+    "rarity": "epic",
+    "imageUrl": "assets/brainrots/yo-tengo-un-tirititango.webp",
+    "description": "Un personnage chante comme une fanfare bancale, suspendu entre musique et nonsense.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "tengo",
+      "tengo tirititango"
+    ]
+  },
+  {
+    "id": "br-zebrossi-fumoso",
+    "name": "Zebrossi Fumoso",
+    "slug": "zebrossi-fumoso",
+    "rarity": "common",
+    "imageUrl": "assets/brainrots/zebrossi-fumoso.png",
+    "description": "Une silhouette fumante qui arrive toujours juste avant que le delire ne bascule.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "zebrosi"
+    ]
+  },
+  {
+    "id": "br-zibra-zubra-zibralini",
+    "name": "Zibra Zubra Zibralini",
+    "slug": "zibra-zubra-zibralini",
+    "rarity": "common",
+    "imageUrl": "assets/brainrots/zibra-zubra-zibralini.png",
+    "description": "Un zebre fracture par le nonsense, avec une identite visuelle assez forte pour dominer une apparition.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "zibra",
+      "zubra",
+      "zibralini"
+    ]
+  },
+  {
+    "id": "br-zmakey-kiwitini",
+    "name": "Zmakey Kiwitini",
+    "slug": "zmakey-kiwitini",
+    "rarity": "common",
+    "imageUrl": "assets/brainrots/zmakey-kiwitini.png",
+    "description": "Un serpent-kiwi motive, etrange source d'energie positive au coeur du chaos.",
+    "sourceStatus": "canon",
+    "aliases": [
+      "zmakey"
+    ]
+  }
+]
