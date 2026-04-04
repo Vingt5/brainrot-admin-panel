@@ -12,7 +12,7 @@ import type {
   RuntimeStatus,
 } from './types';
 
-const API_BASE = import.meta.env.VITE_ADMIN_API_URL || 'http://localhost:3100';
+const API_BASE = import.meta.env.VITE_ADMIN_API_URL || 'http://127.0.0.1:8787';
 
 async function apiFetch<T>(path: string, options?: RequestInit): Promise<T> {
   const token = import.meta.env.VITE_ADMIN_API_TOKEN || '';
@@ -37,9 +37,9 @@ export const fetchDataHealth = () => apiFetch<DataHealthCheck>('/api/admin/dashb
 
 // Runtime
 export const fetchRuntimeStatus = () => apiFetch<RuntimeStatus>('/api/admin/runtime/status');
-export const startBot = () => apiFetch<{ ok: boolean }>('/api/admin/runtime/start', { method: 'POST' });
-export const stopBot = () => apiFetch<{ ok: boolean }>('/api/admin/runtime/stop', { method: 'POST' });
-export const restartBot = () => apiFetch<{ ok: boolean }>('/api/admin/runtime/restart', { method: 'POST' });
+export const startBot = () => apiFetch<RuntimeStatus>('/api/admin/runtime/start', { method: 'POST' });
+export const stopBot = () => apiFetch<RuntimeStatus>('/api/admin/runtime/stop', { method: 'POST' });
+export const restartBot = () => apiFetch<RuntimeStatus>('/api/admin/runtime/restart', { method: 'POST' });
 
 // Players
 export const fetchPlayers = (params?: { page?: number; search?: string }) => {

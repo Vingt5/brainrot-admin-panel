@@ -4,7 +4,26 @@ import { fileURLToPath } from 'node:url';
 
 const currentDirectory = dirname(fileURLToPath(import.meta.url));
 const remoteAssetPattern = /^https?:\/\//i;
-const projectRoot = resolve(currentDirectory, '../..');
+
+function detectProjectRoot(startDirectory: string): string {
+  let current = startDirectory;
+
+  while (true) {
+    if (existsSync(resolve(current, 'package.json')) && existsSync(resolve(current, 'src'))) {
+      return current;
+    }
+
+    const parent = resolve(current, '..');
+
+    if (parent === current) {
+      throw new Error(`Impossible de resoudre la racine projet depuis ${startDirectory}`);
+    }
+
+    current = parent;
+  }
+}
+
+const projectRoot = detectProjectRoot(currentDirectory);
 
 export function isRemoteAssetUrl(value: string): boolean {
   return remoteAssetPattern.test(value);

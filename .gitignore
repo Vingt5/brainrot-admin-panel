@@ -18,6 +18,7 @@ output/
 bot/.env
 bot/node_modules/
 bot/dist/
+bot/dist-admin/
 bot/coverage/
 bot/output/
 bot/.playwright-cli/

@@ -3,6 +3,7 @@ import {
   LayoutDashboard,
   Users,
   Sparkles,
+  Dices,
   Server,
   Activity,
   Brain,
@@ -25,6 +26,7 @@ const mainNav = [
   { title: 'Dashboard', url: '/', icon: LayoutDashboard },
   { title: 'Players', url: '/players', icon: Users },
   { title: 'Brainrots', url: '/brainrots', icon: Sparkles },
+  { title: 'Rolls', url: '/rolls', icon: Dices },
   { title: 'Runtime', url: '/runtime', icon: Server },
 ];
 
@@ -79,7 +81,7 @@ export function AdminSidebar() {
         {!collapsed && (
           <div className="flex items-center gap-2">
             <Activity className="h-3 w-3 text-status-online animate-pulse-glow" />
-            <span className="text-[11px] text-muted-foreground">Mock Mode</span>
+            <span className="text-[11px] text-muted-foreground">Admin API</span>
           </div>
         )}
       </SidebarFooter>

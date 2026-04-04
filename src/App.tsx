@@ -7,6 +7,7 @@ import { AdminLayout } from "@/components/AdminLayout";
 import DashboardPage from "./pages/DashboardPage";
 import PlayersPage from "./pages/PlayersPage";
 import BrainrotsPage from "./pages/BrainrotsPage";
+import RollsPage from "./pages/RollsPage";
 import RuntimePage from "./pages/RuntimePage";
 import NotFound from "./pages/NotFound";
 
@@ -17,12 +18,13 @@ const App = () => (
     <TooltipProvider>
       <Toaster />
       <Sonner />
-      <BrowserRouter>
+      <BrowserRouter future={{ v7_startTransition: true, v7_relativeSplatPath: true }}>
         <Routes>
           <Route element={<AdminLayout />}>
             <Route path="/" element={<DashboardPage />} />
             <Route path="/players" element={<PlayersPage />} />
             <Route path="/brainrots" element={<BrainrotsPage />} />
+            <Route path="/rolls" element={<RollsPage />} />
             <Route path="/runtime" element={<RuntimePage />} />
           </Route>
           <Route path="*" element={<NotFound />} />
